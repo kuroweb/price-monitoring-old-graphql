@@ -1,3 +1,8 @@
+# ⚠️アーカイブ済み
+
+- GraphQLのキャッチアップ目的で採用していたが、おおよその作法や勘所は掴めたので実装から撤去することにした
+- 撤去前のリポジトリをスナップショットとして残しておくために本リポジトリを残しておく
+
 # price-monitoring
 
 [![CI/CD](https://github.com/kuroweb/price-monitoring/actions/workflows/cicd.yml/badge.svg)](https://github.com/kuroweb/price-monitoring/actions/workflows/cicd.yml)
